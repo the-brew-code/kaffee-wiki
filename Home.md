@@ -1,7 +1,8 @@
 
 - [[Siebträger]]
 - [[Espresso]]
+- [[Kaffees]]
 
 ## Espresso Maschinen
 
-- [[Delonghi Dedica]]
+- [[Kaffee Maschinen]]
