@@ -1,7 +1,7 @@
 
 - [[Siebträger]]
 - [[Espresso]]
-- [[Kaffees]]
+- [[Kaffee]]
 
 ## Espresso Maschinen
 
