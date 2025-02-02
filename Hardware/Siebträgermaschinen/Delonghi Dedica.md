@@ -35,6 +35,7 @@ Die Maschine merkt sich wie viel Wasser ihr für den jeweiligen Bezug benutzen w
 | 1     | 90°-91° C  |
 | 2     | 92°-93° C  |
 | 3     | 95°-97° C  |
+
 Bei eingeschalteter Maschine haltet ihr den Dampfknopf einige Sekunden lang gedrückt. Nun blinken die Bezugstasten rhythmisch auf. Dann drückt ihr auf den Knopf für den einfachen Espressobezug. Nun blinken die drei Knöpfe nacheinander auf. Dieses Blinken symbolisiert eure Temperaturstufe. Wollt ihr die Temperaturstufe 1, so drückt ihr nun den Knopf für den einfachen Espressobezug. Temperaturstufe 2 erhaltet ihr mit dem Druck auf den doppelten Espressobezug und Stufe 3 mit Druck auf den Dampfknopf. Nach wenigen Sekunden bestätigt die Maschine mit einem Blinken, dass die neue Temperatur gespeichert wurde.
 
 ### Auto-Off Funktion

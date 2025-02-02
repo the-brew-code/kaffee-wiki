@@ -30,7 +30,7 @@ Dieses Wiki wächst mit unseren Erfahrungen. Jeder Fehlschuss bringt uns dem per
 - Fehlschläge dokumentieren wir mit 🚫 (aus Fehlern lernt man!)
 
 ### 👥 Die Autoren
-- [Marc Julian Schwarz] - Besitzer einer [[Delonghi Dedica]]
+- [[Marc Julian Schwarz]] - Besitzer einer [[Delonghi Dedica]]
 - [[Max Blum]] - Experimentiert mit [[Delonghi Dedica]]
 
 *Lasst die Extraktion beginnen!*
