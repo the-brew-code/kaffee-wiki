@@ -14,3 +14,4 @@ where coffee-rating > 3
 - [[Black Delights Hamburg - CAFFÈ 500 BY MARCO MASCARPONE]]
 - [[Cyle Roasters Lübeck - Triple Blend]]
 - [[50 50 Speicherstadt Kaffee]]
+- [[Orang-Utan Espresso]]
