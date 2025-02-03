@@ -1,3 +1,15 @@
 
-## 
+## Espresso Einsteiger
 
+Im Gegensatz zu [[Max Blum]] bin ich absoluter [[Espresso]] Neuling und fange gerade erst an die Geschmackswelten dessen zu entdecken.
+
+## Mein Setup
+
+- Espressomaschine [[Delonghi Dedica]]
+- [[Mühlen|Mühle]] aus der Dedica Familie
+- [[Siebträger]] von Kaffeemacher
+
+
+## Mein Geschmack 
+
+Wenig Säure, schokoladiger 
