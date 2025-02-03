@@ -2,7 +2,7 @@
 # Über Mich
 
 >  *"La vita è come il caffè: può essere dolce o forte, l'importante è che sia buona"* 
-> (Das Leben ist wir Kaffee: Es kann süß oder stark sein, wichtig ist nur, dass es gut ist)
+> (Das Leben ist wie Kaffee: Es kann süß oder stark sein, wichtig ist nur, dass es gut ist)
 
 ## Meine Kaffee-Geschichte
 

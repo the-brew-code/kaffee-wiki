@@ -1,7 +1,7 @@
 
 List every coffee we tried including where to buy and a rating from 0-5
 
-## 4-5 ⭐
+## ⭐s
 ```dataview
 table coffee-rating as Bewertung, coffee-acidity as Säure, coffee-intensity as Intensität, coffee-url as URL
 from "Kaffee/Sorten"
