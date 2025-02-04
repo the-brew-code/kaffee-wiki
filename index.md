@@ -1,7 +1,8 @@
+---
+title: Kaffee-Wiki
+---
 
-# ☕️ Unser Kaffee-Wiki
-
-## Willkommen in unserem Kaffee-Wiki
+## ☕ Willkommen in unserem Kaffee-Wiki
 
   Von ersten holprigen Versuchen bis hin zu (hoffentlich) perfekt extrahierten Shots – hier halten wir alles fest.
 
@@ -28,7 +29,7 @@ Dieses Wiki wächst mit unseren Erfahrungen. Jeder Fehlschuss bringt uns dem per
 - Neue Erkenntnisse werden mit Datum versehen
 - Wichtige Durchbrüche werden mit 🌟 markiert
 - Fehlschläge dokumentieren wir mit 🚫 (aus Fehlern lernt man!)
-- Möchtest du
+- Installiere die notwendigen [[Plugins]] um die beste Erfahrung zu haben
 
 ### 👥 Die Autoren
 - [[Marc Julian Schwarz]] - Besitzer einer [[Delonghi Dedica]]
