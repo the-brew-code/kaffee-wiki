@@ -28,6 +28,7 @@ Dieses Wiki wächst mit unseren Erfahrungen. Jeder Fehlschuss bringt uns dem per
 - Neue Erkenntnisse werden mit Datum versehen
 - Wichtige Durchbrüche werden mit 🌟 markiert
 - Fehlschläge dokumentieren wir mit 🚫 (aus Fehlern lernt man!)
+- Möchtest du
 
 ### 👥 Die Autoren
 - [[Marc Julian Schwarz]] - Besitzer einer [[Delonghi Dedica]]
