@@ -1,11 +1,6 @@
 ## How-To
 
 
-- [[Überextraktion]]
-- [[Unterextraktion]]
-- [[Brühverhältnis]]
-
-
 ### Espressomaschine Vorbereitung
 
 Starte vor dem Bezug des Espressos einen Durchlauf mit leerem [[Siebträger]]. Dadurch wird sowohl die Maschine als auch der [[Siebträger]] selbst auf die korrekte Temperatur gebracht und eventuell vorhandene Kaffeepulver Rückstände werden entfernt
@@ -13,9 +8,14 @@ Starte vor dem Bezug des Espressos einen Durchlauf mit leerem [[Siebträger]]. D
 
 ### Espresso Puck Vorbereitung
 
-Um [[Channeling]] zu vermeiden ist es wichtig das Kaffeemehl gleichmäßig im Siebträger zu verteilen. Verwende dazu zum Beispiel 
+Um [[Channeling]] zu vermeiden ist es wichtig das Kaffeemehl gleichmäßig im Siebträger zu verteilen. Verwende dazu zum Beispiel ein [[Weiss Distribution Technique|WDT Tool]].
 
 
+### Espresso Bezug
+
+- [[Überextraktion]]
+- [[Unterextraktion]]
+- [[Brühverhältnis]]
 
 
 ## Tipps & Tricks
