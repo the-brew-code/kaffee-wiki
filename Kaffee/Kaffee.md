@@ -15,3 +15,6 @@ where coffee-rating > 3
 - [[Cyle Roasters Lübeck - Triple Blend]]
 - [[50 50 Speicherstadt Kaffee]]
 - [[Orang-Utan Espresso]]
+- [[Forte Speicherstadt Kaffee]]
+- [[Il Gusto Speicherstadt Kaffee]]
+- [[Honduras Speicherstadt Kaffee]]
