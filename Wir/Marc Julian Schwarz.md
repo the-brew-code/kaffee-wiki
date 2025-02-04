@@ -12,4 +12,6 @@ Im Gegensatz zu [[Max Blum]] bin ich absoluter [[Espresso]] Neuling und fange ge
 
 ## Mein Geschmack 
 
-Wenig Säure, schokoladiger 
+Wenig Säure. Schokoladiger und vollmundiger Geschmack. 
+
+
