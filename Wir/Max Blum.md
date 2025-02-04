@@ -18,7 +18,7 @@ In meiner eigenen Küche versuche ich mit jedem Espresso, ein kleines Stück die
 ---
 ### Current Setup:
 
-![[IMG_7219 1.jpg]]
+![[maxsetup.jpg]]
 
 ### Geschmacksprofil:
 
