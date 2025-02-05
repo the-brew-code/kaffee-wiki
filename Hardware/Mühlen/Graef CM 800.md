@@ -2,19 +2,21 @@
 
 Gute Einsteiger Mühle.
 
-## Funktionen: 
+## Funktionen
+
 - Automatische Mahlfunktion durch Taster
 - Ein- / Ausschalter
 - Aluminium-Schaufelrad mit 5er Teilung für optimalen Kaffeemehltransport
 - Zusätzliche Feineinstellung des oberen Mahlwerks
 - Edelstahl-Kegelmahlwerk
 
-## Shortcomings:
+## Shortcomings
+
 - Keine Portionierungsfunktion, das kann man aber durch eigenes Abwiegen lösen
 - Die feineren Mahlgrade verstopfen am Anfang etwas die Kammer unter dem Mahlwerk
 
 
-## Max Settings:
+## Max Settings
 
 **Mahlstufen:**
 Espresso: 6

@@ -22,7 +22,7 @@ Siebträger Maschine: [[Delonghi Dedica]] EC 685M
 Mühle: [[Graef CM 800]]
 Tamper: [[JOYBOY Tamper]]
 Siebträger: [[Kaffeemacher Siebträger]]
-Siebe: [[Kaffeemacher Siebeträger Siebe]]
+Siebe: [[Kaffeemacher Siebträger Siebe]]
 Tassen: [[DeLonghi Gläser]] Espresso
 Kaffee: [[Black Delights Hamburg - CAFFÈ 500 BY MARCO MASCARPONE]]
 
