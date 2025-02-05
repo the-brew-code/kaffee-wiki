@@ -41,8 +41,3 @@ m
 Erstellt: [2025-02-01]
 Zuletzt aktualisiert: `$= dv.current().file.mtime`
 
-
-
-DAS IST EIN TEST
-
-DAS IST EIN ZWEITER TEST
