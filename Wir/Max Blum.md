@@ -17,12 +17,8 @@ In meiner eigenen Küche versuche ich mit jedem Espresso, ein kleines Stück die
 
 ---
 ### Current Setup:
-
 ![[maxsetup.jpg]]
 
-### Geschmacksprofil:
-
-AI:
 # Mein Geschmacksprofil
 
 ## La Passione per il Caffè Italiano
