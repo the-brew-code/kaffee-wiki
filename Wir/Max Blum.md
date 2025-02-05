@@ -17,6 +17,15 @@ In meiner eigenen Küche versuche ich mit jedem Espresso, ein kleines Stück die
 
 ---
 ### Current Setup:
+
+Siebträger Maschine: [[Delonghi Dedica]] EC 685M
+Mühle: [[Graef CM 800]]
+Tamper: [[JOYBOY Tamper]]
+Siebträger: [[Kaffeemacher Siebträger]]
+Siebe: [[Kaffeemacher Siebeträger Siebe]]
+Tassen: [[DeLonghi Gläser]] Espresso
+Kaffee: [[Black Delights Hamburg - CAFFÈ 500 BY MARCO MASCARPONE]]
+
 ![[maxsetup.jpg]]
 
 # Mein Geschmacksprofil

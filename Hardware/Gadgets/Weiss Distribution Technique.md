@@ -3,7 +3,7 @@ aliases:
   - WDT
   - WDT Tool
 ---
-Wird genutzt um Klumpen zu zerkleinern und das Kaffeemehl homogen im [[Siebträger]] zu verteilen. Die gleichmäßige Verteilung vermeidet [[Channeling]] und sorgt dafür, dass das Wasser gleichmäßiger durch den Puck gepresst wird.
+Wird genutzt um Klumpen zu zerkleinern und das Kaffeemehl homogen im [[Kaffeemacher Siebträger]] zu verteilen. Die gleichmäßige Verteilung vermeidet [[Channeling]] und sorgt dafür, dass das Wasser gleichmäßiger durch den Puck gepresst wird.
 
 ## DIY Alternativen
 

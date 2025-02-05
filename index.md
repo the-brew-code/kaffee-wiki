@@ -15,7 +15,7 @@ title: Kaffee-Wiki
 
 - [[Kaffee]] - Auflistung und Bewertungen der verschiedenen Röstungen
 - [[Kaffee Maschinen]] - Unsere Erfahrungen mit verschiedenen Kaffeemaschinen
-- [[Siebträger]] - Unsere Erfahrungen mit verschiedenen Siebträgern
+- [[Kaffeemacher Siebträger]] - Unsere Erfahrungen mit verschiedenen Siebträgern
 - [[Mühlen]]  - Die Kunst des perfekten Mahlgrads
 - [[Gadgets]] - Must-haves und Nice-to-haves
 - [[Espresso]] - Alles rund um den perfekten Espresso
