@@ -39,5 +39,6 @@ Dieses Wiki wächst mit unseren Erfahrungen. Jeder Fehlschuss bringt uns dem per
 
 ---
 Erstellt: [2025-02-01]
-Zuletzt aktualisiert: {{date:DD.MM.YYYY}}
+Zuletzt aktualisiert: `$= dv.current().file.mtime`
+
 
