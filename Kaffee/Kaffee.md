@@ -16,6 +16,19 @@ Das sind unsere Favoriten. Diese Sorten wurden mit 4 oder 5 Sternen bewertet.
 
 ## ☕ Alle
 
+### Ganze Bohnen
+<!-- QueryToSerialize: list from "Kaffee/Sorten/Ganze Bohnen" -->
+<!-- SerializedQuery: list from "Kaffee/Sorten/Ganze Bohnen" -->
+- [[50 50 Speicherstadt Kaffee]]
+- [[Black Delights Hamburg - CAFFÈ 500 BY MARCO MASCARPONE]]
+- [[Cyle Roasters Lübeck - Triple Blend]]
+- [[Forte Speicherstadt Kaffee]]
+- [[Honduras Speicherstadt Kaffee]]
+- [[Il Gusto Speicherstadt Kaffee]]
+- [[Orang-Utan Espresso]]
+<!-- SerializedQuery END -->
+
+### Gemahlener Kaffee
 <!-- QueryToSerialize: list from "Kaffee/Sorten/Gemahlener Kaffee" -->
 <!-- SerializedQuery: list from "Kaffee/Sorten/Gemahlener Kaffee" -->
 - [[CAFFÈ VERGNANO Gran Aroma]]
@@ -26,4 +39,3 @@ Das sind unsere Favoriten. Diese Sorten wurden mit 4 oder 5 Sternen bewertet.
 
 
 
-<!-- QueryToSerialize: list from "Kaffee/Sorten/Ganze Bohnen" -->

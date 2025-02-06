@@ -7,4 +7,3 @@ coffee-intensity: 3
 50% Arabica 
 50% Robusta
 
-
