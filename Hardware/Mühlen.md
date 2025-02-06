@@ -3,4 +3,6 @@ aliases:
   - Mühle
 ---
 
-[[Graef CM 800]]
+Diese Mühlen verwenden wir.
+
+- [[Graef CM 800]]
