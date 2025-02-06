@@ -18,10 +18,10 @@ Das sind unsere Favoriten. Diese Sorten wurden mit 4 oder 5 Sternen bewertet.
 
 <!-- QueryToSerialize: list from "Kaffee/Sorten/Gemahlener Kaffee" -->
 <!-- SerializedQuery: list from "Kaffee/Sorten/Gemahlener Kaffee" -->
-- [[CAFFÈ VERGNANO Gran Aroma]]
 - [[KIMBO]]
-- [[LAVAZZA]]
 - [[illy]]
+- [[LAVAZZA]]
+- [[CAFFÈ VERGNANO Gran Aroma]]
 <!-- SerializedQuery END -->
 
 
