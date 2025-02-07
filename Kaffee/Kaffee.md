@@ -33,8 +33,8 @@ Das sind unsere Favoriten. Diese Sorten wurden mit 4 oder 5 Sternen bewertet.
 <!-- SerializedQuery: list from "Kaffee/Sorten/Gemahlener Kaffee" -->
 - [[CAFFÈ VERGNANO Gran Aroma]]
 - [[KIMBO Aroma Italiano]]
-- [[illy classico]]
 - [[LAVAZZA ROSSA]]
+- [[illy classico]]
 <!-- SerializedQuery END -->
 
 
