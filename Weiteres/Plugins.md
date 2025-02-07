@@ -1,5 +1,5 @@
 
-Die folgenden Obsidian Community Plugins sollten vor Verwendung dieses Vaults instal
+Die folgenden Obsidian Community Plugins sollten vor Verwendung dieses Vaults installiert werden.
 
 ## Notwendig
 
