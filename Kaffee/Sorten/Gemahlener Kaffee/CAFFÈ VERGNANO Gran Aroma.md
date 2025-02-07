@@ -7,7 +7,6 @@ coffee-roasting-lvl: 3/5
 coffee-picture: "![[granaromaCV.png]]"
 ---
 Bisher leider nur gemahlen probiert und ursprünglich mit der Bialetti ausprobiert. Damals einer meiner Favourites. 
-Steht absolut auf meiner Liste mit ganzen Bohnen und in der Siebträger auszurprobieren
+Steht absolut auf meiner Liste mit ganzen Bohnen und in der Siebträger auszuprobieren.
 
-
-
+![[granaromaCV.png]]
