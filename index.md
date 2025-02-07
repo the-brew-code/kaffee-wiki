@@ -30,7 +30,6 @@ Dieses Wiki wächst mit unseren Erfahrungen. Jeder Fehlschuss bringt uns dem per
 - Wichtige Durchbrüche werden mit 🌟 markiert
 - Fehlschläge dokumentieren wir mit 🚫 (aus Fehlern lernt man!)
 - Installiere die notwendigen [[Plugins]] um die beste Erfahrung zu haben
-m
 ### 👥 Die Autoren
 - [[Marc Julian Schwarz]] - Besitzer einer [[Delonghi Dedica]]
 - [[Max Blum]] - Experimentiert mit [[Delonghi Dedica]]
@@ -39,4 +38,3 @@ m
 
 ---
 Erstellt: [2025-02-01]
-Zuletzt aktualisiert: `$= dv.current().file.mtime`
