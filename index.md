@@ -13,11 +13,11 @@ title: Kaffee-Wiki
 
 ### 📚 Was du hier findest
 
-- [[Kaffee]] - Auflistung und Bewertungen der verschiedenen Röstungen
-- [[Kaffee Maschinen]] - Unsere Erfahrungen mit verschiedenen Kaffeemaschinen
+- [[Kaffee Übersicht]] - Auflistung und Bewertungen der verschiedenen Röstungen
+- [[Kaffee Maschinen Übersicht]] - Unsere Erfahrungen mit verschiedenen Kaffeemaschinen
 - [[Kaffeemacher Siebträger]] - Unsere Erfahrungen mit verschiedenen Siebträgern
 - [[Mühlen Übersicht]]  - Die Kunst des perfekten Mahlgrads
-- [[Gadgets]] - Must-haves und Nice-to-haves
+- [[Gadgets Übersicht]] - Must-haves und Nice-to-haves
 - [[Espresso]] - Alles rund um den perfekten Espresso
 - [[Weitere Links]]
 

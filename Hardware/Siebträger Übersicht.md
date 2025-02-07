@@ -1,3 +1,7 @@
+---
+aliases:
+  - Siebträger
+---
 
 Hier eine Liste der Siebträger, die wir verwenden.
 

@@ -1,6 +1,7 @@
 ---
 aliases:
   - Mühle
+  - Mühlen
 ---
 
 Diese Mühlen verwenden wir.
