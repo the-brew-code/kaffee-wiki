@@ -19,9 +19,7 @@ Das sind unsere Favoriten. Diese Sorten wurden mit 4 oder 5 Sternen bewertet.
 <!-- SerializedQuery END -->
 
 
-## ☕ Alle
-
-### Ganze Bohnen
+## Ganze Bohnen
 <!-- QueryToSerialize: table coffee-rating as Bewertung, coffee-acidity as Säure, coffee-intensity as Intensität, coffee-url as URL, coffee-picture as Bild from "Kaffee/Sorten/Ganze Bohnen" -->
 <!-- SerializedQuery: table coffee-rating as Bewertung, coffee-acidity as Säure, coffee-intensity as Intensität, coffee-url as URL, coffee-picture as Bild from "Kaffee/Sorten/Ganze Bohnen" -->
 
@@ -37,7 +35,7 @@ Das sind unsere Favoriten. Diese Sorten wurden mit 4 oder 5 Sternen bewertet.
 <!-- SerializedQuery END -->
 
 
-### Gemahlener Kaffee
+##  Gemahlener Kaffee
 <!-- QueryToSerialize: table coffee-rating as Bewertung, coffee-acidity as Säure, coffee-intensity as Intensität, coffee-url as URL, coffee-picture as Bild from "Kaffee/Sorten/Gemahlener Kaffee" -->
 <!-- SerializedQuery: table coffee-rating as Bewertung, coffee-acidity as Säure, coffee-intensity as Intensität, coffee-url as URL, coffee-picture as Bild from "Kaffee/Sorten/Gemahlener Kaffee" -->
 
