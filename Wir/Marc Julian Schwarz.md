@@ -8,7 +8,7 @@ Im Gegensatz zu [[Max Blum]] bin ich absoluter [[Espresso]] Neuling und fange ge
 ## Mein Setup
 
 - Espressomaschine [[Delonghi Dedica]]
-- [[Mühlen|Mühle]] aus der Dedica Familie
+- [[Mühlen Übersicht|Mühle]] aus der Dedica Familie
 - [[Kaffeemacher Siebträger]] von Kaffeemacher
 - [[Kaffeemacher Siebträger Siebe]]
 
