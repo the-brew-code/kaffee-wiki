@@ -44,8 +44,8 @@ Das sind unsere Favoriten. Diese Sorten wurden mit 4 oder 5 Sternen bewertet.
 
 | File                                                                                        | Bewertung | Säure | Intensität | URL                                                                     | Bild                                        |
 | ------------------------------------------------------------------------------------------- | --------- | ----- | ---------- | ----------------------------------------------------------------------- | ------------------------------------------- |
-| [[CAFFÈ VERGNANO Gran Aroma]] | \-        | 2     | 4          | https://www.roastmarket.de/caffe-vergnano-gran-aroma-gemahlen-250g.html | ![[granaromaCV.png\|granaromaCV.png]] |
+| [[illy classico]]                         | \-        | \-    | \-         | \-                                                                      | \-                                          |
 | [[KIMBO Aroma Italiano]]           | \-        | \-    | \-         | \-                                                                      | \-                                          |
 | [[LAVAZZA ROSSA]]                         | \-        | \-    | \-         | \-                                                                      | \-                                          |
-| [[illy classico]]                         | \-        | \-    | \-         | \-                                                                      | \-                                          |
+| [[CAFFÈ VERGNANO Gran Aroma]] | \-        | 2     | 4          | https://www.roastmarket.de/caffe-vergnano-gran-aroma-gemahlen-250g.html | ![[granaromaCV.png\|granaromaCV.png]] |
 <!-- SerializedQuery END -->

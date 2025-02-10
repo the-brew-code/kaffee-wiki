@@ -5,3 +5,5 @@ coffee-url: https://www.blackdelight.de/product/disco-500-by-marco-mascarpone/
 sehr dunkel, sehr dichte Crema. Geschmack sehr stark an italienischen Espressos angelehnt, allerdings an die stärkeren/dunklere davon.
 
 Aktuell [[Max Blum]] Favorit.
+
+[[Graef CM 800]] Mahlstufe: 8/40
