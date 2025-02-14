@@ -35,6 +35,3 @@ Dieses Wiki wächst mit unseren Erfahrungen. Jeder Fehlschuss bringt uns dem per
 - [[Max Blum]] - Experimentiert mit [[Delonghi Dedica]]
 
 *Lasst die Extraktion beginnen!*
-
----
-Erstellt: [2025-02-01]
