@@ -8,9 +8,10 @@ Im Gegensatz zu [[Max Blum]] bin ich absoluter [[Espresso]] Neuling und fange ge
 ## Mein Setup
 
 - Espressomaschine [[Delonghi Dedica]]
-- [[Mühlen Übersicht|Mühle]] aus der Dedica Familie
+- [[DeLonghi KG 521]] [[Mühlen Übersicht|Mühle]]
 - [[Kaffeemacher Siebträger]] von Kaffeemacher
 - [[Kaffeemacher Siebträger Siebe]]
+- [[MICXNIC WDT Tool]]
 
 ![[mjsetup1.png]]
 
