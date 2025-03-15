@@ -19,6 +19,6 @@ Beim Bezug ist es wichtig das korrekte [[Brühverhältnis]] und die Temperatur z
 
 ## Tipps & Tricks
 
+![[Espesso Cheat Sheet.jpg]]
 
-
-
+[Quelle Bild](https://www.kaffee-netz.de/threads/espresso-zubereitung-fehleranalyse-optimierung-infografik-korrekt.96511/)
