@@ -44,3 +44,13 @@ Lässt sich mit drücken des "Dampf"-Knopfes einstellen. Gedrückt halten bis al
 - Single Shot Taste = 9 Minuten
 - Double Shot Taste = 30 Minuten
 - Dampf Taste = 3 Stunden
+
+## Reinigung
+
+### Sieb 
+
+Das Sieb direkt an der Maschine kann mit einem einfachen Kreuzschlitz abgeschraubt werden. Darunter verbirgt sich oftmals überraschend viel Kaffeesatz, der natürlich keine positive Auswirkung auf den Espressobezug hat. Der Kaffeesatz lässt sich einfach mit heißem Wasser und einem Tuch entfernen.
+
+### Entkalkung
+
+...
