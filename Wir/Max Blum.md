@@ -18,11 +18,11 @@ In meiner eigenen Küche versuche ich mit jedem Espresso, ein kleines Stück die
 ---
 ### Current Setup:
 
-Siebträger Maschine: [[Delonghi Dedica]] EC 685M
+Siebträger Maschine: [[Rancilio Silvia V6]]
 Mühle: [[Graef CM 800]]
-Tamper: [[JOYBOY Tamper]]
-Siebträger: [[Kaffeemacher Siebträger]]
-Siebe: [[Kaffeemacher Siebträger Siebe]]
+Tamper: Originaler Rancilio Tamper
+Siebträger: Originaler Rancilio Siebträger
+Siebe: Originale Rancilio Siebe
 Tassen: [[DeLonghi Gläser]] Espresso
 Kaffee: [[Black Delights Hamburg - CAFFÈ 500 BY MARCO MASCARPONE]]
 
