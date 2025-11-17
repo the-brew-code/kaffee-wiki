@@ -2,7 +2,3 @@ Das Brühverhältnis gibt das Verhältnis zwischen **Gewicht des Kaffemehls** un
 
 Ein typisches Verhältnis für Espresso ist **1:2,5**
 
-
-> Das ist mein Zitat 
-
-
