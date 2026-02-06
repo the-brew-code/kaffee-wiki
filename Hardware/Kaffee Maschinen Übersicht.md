@@ -9,5 +9,6 @@ aliases:
 Diese Kaffee Maschinen verwenden wir.
 
 - [[Delonghi Dedica]]
+- [[Rancilio Silvia V6]]
 
 

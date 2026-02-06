@@ -19,14 +19,13 @@ In meiner eigenen Küche versuche ich mit jedem Espresso, ein kleines Stück die
 ### Current Setup:
 
 Siebträger Maschine: [[Rancilio Silvia V6]]
-Mühle: [[Graef CM 800]]
+Mühle: [[TIMEMORE Chestnut C3 ESP]]
 Tamper: Originaler Rancilio Tamper
 Siebträger: Originaler Rancilio Siebträger
 Siebe: Originale Rancilio Siebe
 Tassen: [[DeLonghi Gläser]] Espresso
 Kaffee: [[Black Delights Hamburg - CAFFÈ 500 BY MARCO MASCARPONE]]
 
-![[maxsetup.jpg]]
 
 # Mein Geschmacksprofil
 

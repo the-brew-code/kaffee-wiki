@@ -1,0 +1,2 @@
+Der Standard Siebträger bei der Auslieferung ist ein Siebträger mit 2er-Auslauf. Es gibt für die Maschine aber natürlich auch einen Bottomless und einen 1er-Auslauf. 
+Der Umfang des Siebträgers ist passend für 58mm Siebe & Tamper

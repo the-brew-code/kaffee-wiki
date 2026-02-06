@@ -19,6 +19,7 @@ title: Kaffee-Wiki
 - [[Mühlen Übersicht]]  - Die Kunst des perfekten Mahlgrads
 - [[Gadgets Übersicht]] - Must-haves und Nice-to-haves
 - [[Espresso]] - Alles rund um den perfekten Espresso
+- [[Tipps und Tricks Übersicht]] - Sammlung von Tipps, Tricks und Failures
 - [[Weitere Links]]
 
 ### 🌱 Work in Progress
@@ -32,7 +33,7 @@ Dieses Wiki wächst mit unseren Erfahrungen. Jeder Fehlschuss bringt uns dem per
 - Installiere die notwendigen [[Plugins]] um die beste Erfahrung zu haben
 ### 👥 Die Autoren
 - [[Marc Julian Schwarz]] - Besitzer einer [[Delonghi Dedica]]
-- [[Max Blum]] - Experimentiert mit [[Delonghi Dedica]]
+- [[Max Blum]] - Experimentiert mit einer 
 
 *Lasst die Extraktion beginnen!*
 
