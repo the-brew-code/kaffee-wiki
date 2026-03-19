@@ -9,6 +9,7 @@ Hier zeigen wir alle Kaffeesorten, die wir bereits verwendet haben. Jeder Kaffee
 
 Das sind unsere Favoriten. Diese Sorten wurden mit mehr als 3 Sternen bewertet. 
 
+
 <!-- QueryToSerialize: table coffee-rating as Bewertung, coffee-acidity as Säure, coffee-intensity as Intensität, coffee-url as URL, coffee-picture from "Kaffee/Sorten" where coffee-rating > 3 -->
 <!-- SerializedQuery: table coffee-rating as Bewertung, coffee-acidity as Säure, coffee-intensity as Intensität, coffee-url as URL, coffee-picture from "Kaffee/Sorten" where coffee-rating > 3 -->
 
@@ -21,7 +22,7 @@ Das sind unsere Favoriten. Diese Sorten wurden mit mehr als 3 Sternen bewertet.
 | [[Tantris Espresso No. 2]]                                                                 | 4         | \-    | \-         | https://www.dinzler.de/shop/tantris-espresso-no.-2-12367                  | \-                                                                                |
 | [[Mexico Finca Santa Anita (CULTD)]]                                             | 4         | 1     | 4          | \-                                                                        | ![[MexicoKaffee1.jpeg\|MexicoKaffee1.jpeg]]                                 |
 | [[Espressone Mexiko Blue Skull]]                                                     | 3.5       | \-    | 3          | \-                                                                        | ![[espressone_mexican_blue_skull.jpeg\|espressone_mexican_blue_skull.jpeg]] |
-| [[Bogatz Cafe Crema Plus]]                                                                 | 4         | 2     | 5          | \-                                                                        | ![[bogatz_cafe_crema_plus.jpeg\|bogatz_cafe_crema_plus.jpeg]]               |
+| [[Bogatz Cafe Crema Plus]]                                                                 | 4         | 1     | 5          | \-                                                                        | ![[bogatz_cafe_crema_plus.jpeg\|bogatz_cafe_crema_plus.jpeg]]               |
 <!-- SerializedQuery END -->
 
 
@@ -46,7 +47,7 @@ Das sind unsere Favoriten. Diese Sorten wurden mit mehr als 3 Sternen bewertet.
 | [[Tantris Espresso No. 2]]                                                                 | 4         | \-    | \-         | https://www.dinzler.de/shop/tantris-espresso-no.-2-12367                                                        | \-                                                                                |
 | [[Mexico Finca Santa Anita (CULTD)]]                                             | 4         | 1     | 4          | \-                                                                                                              | ![[MexicoKaffee1.jpeg\|MexicoKaffee1.jpeg]]                                 |
 | [[Espressone Mexiko Blue Skull]]                                                     | 3.5       | \-    | 3          | \-                                                                                                              | ![[espressone_mexican_blue_skull.jpeg\|espressone_mexican_blue_skull.jpeg]] |
-| [[Bogatz Cafe Crema Plus]]                                                                 | 4         | 2     | 5          | \-                                                                                                              | ![[bogatz_cafe_crema_plus.jpeg\|bogatz_cafe_crema_plus.jpeg]]               |
+| [[Bogatz Cafe Crema Plus]]                                                                 | 4         | 1     | 5          | \-                                                                                                              | ![[bogatz_cafe_crema_plus.jpeg\|bogatz_cafe_crema_plus.jpeg]]               |
 <!-- SerializedQuery END -->
 
 
